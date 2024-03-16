@@ -1,3 +1,4 @@
+Scott Chapman - 101233571
 Steps to run the code:
 On pgAdmin 4, set up a server with a db called a3db, fill in the empty DB_USER, DB_PASS, DB_HOST and DB_PORT then save the file.
 Then to set up the database run these in the db's query line (or use the a3p1dbCreation.sql file):
